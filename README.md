@@ -1,2 +1,2 @@
 # RIXS-Copy
-This is a reorganized RIXS python manuscript
+This is reorganized RIXS python manuscripts from Solietdata
